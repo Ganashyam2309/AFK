@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
+	"ip":"WitherLegends.aternos.me",
+	"port": "18004",
+	"name": "afkbot",
 	"auto-night-skip":"true"
 }
